@@ -5,9 +5,9 @@
 + 服务端api基于Ｎode.js+ThinkJS+MySQL
 
 ### 目前基于PP商城的已经上线的几款微信小程序商城
-<img width="1000" src="https://img.mybei.cn/mini_qr.jpg"/>
+<img width="200" src="https://img.mybei.cn/mini_qr.jpg"/>
 
-<img width="1000" src="https://img.mybei.cn/WechatIMG1.png"/>
+<img width="200" src="https://img.mybei.cn/WechatIMG1.png"/>
 
 
 ### 本项目需要配合  
@@ -104,7 +104,7 @@ node production.js
 ### 最近更新 
 - 新增生成分享图的功能  
 在src/common/config/config.js需要设置好已经开通https的七牛bucket的参数
-<img width="1000" src="https://img.mybei.cn/wx9a9aa2c93a76d729.o6zAJs7jzc0bQEwXjBm3q8QkbgrQ.Hru44NjZKOXQb943dd2052d8b5ccdadd13483ebd9d0a.png"/>
+<img width="200" src="https://img.mybei.cn/wx9a9aa2c93a76d729.o6zAJs7jzc0bQEwXjBm3q8QkbgrQ.Hru44NjZKOXQb943dd2052d8b5ccdadd13483ebd9d0a.png"/>
 
 - 项目地址  
 服务端： https://github.com/peizhou/ppshop-server  
@@ -112,7 +112,7 @@ node production.js
 微信小程序：https://github.com/peizhou/ppshop-miniprogram  
 
 - 本项目会持续更新和维护，喜欢别忘了 Star，有问题可通过微信, 谢谢您的关注。
-<img width="1200" src="https://img.mybei.cn/contact.jpeg"/>
+<img width="200" src="https://img.mybei.cn/contact.jpeg"/>
 
 
 
