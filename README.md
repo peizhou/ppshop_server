@@ -107,7 +107,7 @@ node production.js
 <img width="200" src="https://img.mybei.cn/wx9a9aa2c93a76d729.o6zAJs7jzc0bQEwXjBm3q8QkbgrQ.Hru44NjZKOXQb943dd2052d8b5ccdadd13483ebd9d0a.png"/>
 
 - 项目地址  
-服务端： https://github.com/peizhou/ppshop-server  
+服务端： https://github.com/peizhou/ppshop_server  
 后台管理：https://github.com/peizhou/ppshop-admin  
 微信小程序：https://github.com/peizhou/ppshop-miniprogram  
 
